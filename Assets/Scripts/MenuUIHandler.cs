@@ -28,5 +28,5 @@ public class MenuUIHandler : MonoBehaviour
         Application.Quit();
 #endif
     }
-
+    // special thanks to koshinamari
 }
